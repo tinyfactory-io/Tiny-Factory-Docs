@@ -213,7 +213,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   background: #f3f3f3;
-  font-family: "ff-meta-web-pro",'Arial', "Georgia", sans-serif;
+  font-family: "ff-meta-web-pro","Arial", "Georgia", sans-serif;
   font-weight: normal;
   font-size: 13px;
   line-height: 1.5em;
@@ -337,7 +337,7 @@ p code {
 }
 
 strong {
-  font-family: "ff-meta-web-pro",'Arial', "Georgia", sans-serif;
+  font-family: "ff-meta-web-pro","Arial", "Georgia", sans-serif;
   font-weight: bold;
 }
 
@@ -521,7 +521,7 @@ strong {
     margin: 10px 0;
     display: block;
     border-bottom: 1px solid #e6e6e6;
-    font-family: "ff-meta-web-pro", 'Arial', "Georgia", sans-serif;
+    font-family: "ff-meta-web-pro","Arial", "Georgia", sans-serif;
     font-weight: normal;
     font-size: 15px;
   }
@@ -613,7 +613,7 @@ strong {
 }
 #container .entry a {
   color: #de4132;
-  font-family: "ff-meta-web-pro", 'Arial', "Georgia", sans-serif;
+  font-family: "ff-meta-web-pro", "Arial", "Georgia", sans-serif;
   font-weight: bold;
 }
 @media only screen and (min-width: 1025px) {
