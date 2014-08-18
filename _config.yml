@@ -2,7 +2,7 @@
 # url: http://localhost:4000
 
 # Production
-url: http://docs.tinyfactory.co
+url: http://docs.tinyfactory.io
 
 
 permalink: date
@@ -17,7 +17,7 @@ markdown: redcarpet
 domain: http://tinyfactory.github.io/
 title: Tiny Factory Docs
 author: Tiny Factory
-email: hello@tinyfactory.co
+email: hello@tinyfactory.io
 
 google_analytics:
   account: UA-20145334-1
@@ -38,7 +38,7 @@ authors:
     display_name: Michael Sacca
     gravatar: 7a1dc0efd8eba2f7c5932b5dffbca642
     email: michael.sacca@gmail.com
-    web: http://www.tinyfactory.co
+    web: http://www.tinyfactory.io
     twitter: michaelsacca
     github: michaelsacca
     dribbble: michaelsacca
@@ -46,13 +46,13 @@ authors:
     display_name: Alex Rolek
     gravatar: 32e270a19ef710b143c87036aaacb6a3
     email: a.rolek@gmail.com
-    web: http://www.tinyfactory.co
+    web: http://www.tinyfactory.io
     twitter: AlexRolek
     github: ARolek
   justen:
     display_name: Justen Palmer
     gravatar: f232f3a8afb733882c6e8489a1ad05f8
     email: artichokeworld@gmail.com
-    web: http://www.tinyfactory.co
+    web: http://www.tinyfactory.io
     twitter: justenPalmer
     github: justenPalmer

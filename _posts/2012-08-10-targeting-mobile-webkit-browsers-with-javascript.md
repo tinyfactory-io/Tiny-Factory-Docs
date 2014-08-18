@@ -5,7 +5,7 @@ published: true
 author: michael
 ---
 
-Here is a way to target mobile browsers with Javascript.  It's not recommended you use this as your sole method for targeting mobile browsers as it first requires your users to load your entire standard site before serving your mobile specific code.  But if used in conjunction with [CSS Media Queries](http://docs.tinyfactory.co/sass/2012/08/02/sass-inline-media-queries.html) - this can be quite handy.
+Here is a way to target mobile browsers with Javascript.  It's not recommended you use this as your sole method for targeting mobile browsers as it first requires your users to load your entire standard site before serving your mobile specific code.  But if used in conjunction with [CSS Media Queries](http://docs.tinyfactory.io/sass/2012/08/02/sass-inline-media-queries.html) - this can be quite handy.
 
 {% highlight js %}
 if( navigator.userAgent.match(/Android/i) ||

@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tiny Factory Docs</title>
- <link href="http://docs.tinyfactory.co/atom.xml" rel="self"/>
- <link href="http://docs.tinyfactory.co/"/>
+ <link href="http://docs.tinyfactory.io/atom.xml" rel="self"/>
+ <link href="http://docs.tinyfactory.io/"/>
  <updated>2013-04-22T18:06:03-07:00</updated>
- <id>http://docs.tinyfactory.co</id>
+ <id>http://docs.tinyfactory.io</id>
  <author>
    <name>Tiny Factory</name>
-   <email>hello@tinyfactory.co</email>
+   <email>hello@tinyfactory.io</email>
  </author>
 
  
  <entry>
    <title>Amazon Cloudfront Api Authorization And Invalidation With Node.js</title>
-   <link href="http://docs.tinyfactory.co/node.js/2013/01/14/Amazon-Cloudfront-API-Authorization-and-Invalidation-with-Node.js.html"/>
+   <link href="http://docs.tinyfactory.io/node.js/2013/01/14/Amazon-Cloudfront-API-Authorization-and-Invalidation-with-Node.js.html"/>
    <updated>2013-01-14T00:00:00-08:00</updated>
-   <id>http://docs.tinyfactory.co/node.js/2013/01/14/Amazon-Cloudfront-API-Authorization-and-Invalidation-with-Node.js</id>
+   <id>http://docs.tinyfactory.io/node.js/2013/01/14/Amazon-Cloudfront-API-Authorization-and-Invalidation-with-Node.js</id>
    
    <author>
    	<name>Alex Rolek</name>
@@ -116,9 +116,9 @@ postReq.end();
  
  <entry>
    <title>Formatting, Partitioning, and Mounting Drives on CentOS</title>
-   <link href="http://docs.tinyfactory.co/centos/2013/01/11/formatting-partitioning-and-mounting-drives-on-cent-os.html"/>
+   <link href="http://docs.tinyfactory.io/centos/2013/01/11/formatting-partitioning-and-mounting-drives-on-cent-os.html"/>
    <updated>2013-01-11T00:00:00-08:00</updated>
-   <id>http://docs.tinyfactory.co/centos/2013/01/11/formatting-partitioning-and-mounting-drives-on-cent-os</id>
+   <id>http://docs.tinyfactory.io/centos/2013/01/11/formatting-partitioning-and-mounting-drives-on-cent-os</id>
    
    <author>
    	<name>Alex Rolek</name>
@@ -261,9 +261,9 @@ Superblock backups stored on blocks:
  
  <entry>
    <title>HTML5 Placeholder in IE7 and IE8 fix</title>
-   <link href="http://docs.tinyfactory.co/jquery/2012/12/18/HTML5-Placeholder-In-ie7-and-ie8-fix.html"/>
+   <link href="http://docs.tinyfactory.io/jquery/2012/12/18/HTML5-Placeholder-In-ie7-and-ie8-fix.html"/>
    <updated>2012-12-18T00:00:00-08:00</updated>
-   <id>http://docs.tinyfactory.co/jquery/2012/12/18/HTML5-Placeholder-In-ie7-and-ie8-fix</id>
+   <id>http://docs.tinyfactory.io/jquery/2012/12/18/HTML5-Placeholder-In-ie7-and-ie8-fix</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -278,9 +278,9 @@ Superblock backups stored on blocks:
  
  <entry>
    <title>iOS Store Submission Checklist</title>
-   <link href="http://docs.tinyfactory.co/design/2012/10/03/ios-store-submission-checklist.html"/>
+   <link href="http://docs.tinyfactory.io/design/2012/10/03/ios-store-submission-checklist.html"/>
    <updated>2012-10-03T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/design/2012/10/03/ios-store-submission-checklist</id>
+   <id>http://docs.tinyfactory.io/design/2012/10/03/ios-store-submission-checklist</id>
    
    <author>
    	<name>Alex Rolek</name>
@@ -354,9 +354,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Google Play Store Submission Checklist Mobile</title>
-   <link href="http://docs.tinyfactory.co/design/2012/10/03/Google-Play-Store-Submission-Checklist-Mobile.html"/>
+   <link href="http://docs.tinyfactory.io/design/2012/10/03/Google-Play-Store-Submission-Checklist-Mobile.html"/>
    <updated>2012-10-03T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/design/2012/10/03/Google-Play-Store-Submission-Checklist-Mobile</id>
+   <id>http://docs.tinyfactory.io/design/2012/10/03/Google-Play-Store-Submission-Checklist-Mobile</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -438,15 +438,15 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Text Overflow Ellipsis Using Less</title>
-   <link href="http://docs.tinyfactory.co/less/2012/09/20/text-overflow-ellipsis-using-LESS.html"/>
+   <link href="http://docs.tinyfactory.io/less/2012/09/20/text-overflow-ellipsis-using-LESS.html"/>
    <updated>2012-09-20T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/less/2012/09/20/text-overflow-ellipsis-using-LESS</id>
+   <id>http://docs.tinyfactory.io/less/2012/09/20/text-overflow-ellipsis-using-LESS</id>
    
    <author>
    	<name>Michael Sacca</name>
    	<email>michael.sacca@gmail.com</email>
    </author>
-   <content type="html">&lt;p&gt;As a follow up to our &lt;a href=&quot;http://docs.tinyfactory.co/css/2012/08/11/text-overflow-ellipsis-using-CSS.html&quot;&gt;CSS ellipsis&lt;/a&gt; solution, this LESS overflow ellipsis mixin is perfect for single line truncations.  &lt;/p&gt;
+   <content type="html">&lt;p&gt;As a follow up to our &lt;a href=&quot;http://docs.tinyfactory.io/css/2012/08/11/text-overflow-ellipsis-using-CSS.html&quot;&gt;CSS ellipsis&lt;/a&gt; solution, this LESS overflow ellipsis mixin is perfect for single line truncations.  &lt;/p&gt;
 
 &lt;p&gt;Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
 </content>
@@ -455,9 +455,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Less Placeholder Text Mixin</title>
-   <link href="http://docs.tinyfactory.co/less/2012/09/20/LESS-placeholder-text-mixin.html"/>
+   <link href="http://docs.tinyfactory.io/less/2012/09/20/LESS-placeholder-text-mixin.html"/>
    <updated>2012-09-20T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/less/2012/09/20/LESS-placeholder-text-mixin</id>
+   <id>http://docs.tinyfactory.io/less/2012/09/20/LESS-placeholder-text-mixin</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -486,9 +486,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Text Overflow Ellipsis Using Jquery</title>
-   <link href="http://docs.tinyfactory.co/jquery/2012/08/11/text-overflow-ellipsis-using-jquery.html"/>
+   <link href="http://docs.tinyfactory.io/jquery/2012/08/11/text-overflow-ellipsis-using-jquery.html"/>
    <updated>2012-08-11T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/jquery/2012/08/11/text-overflow-ellipsis-using-jquery</id>
+   <id>http://docs.tinyfactory.io/jquery/2012/08/11/text-overflow-ellipsis-using-jquery</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -515,9 +515,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Text Overflow Ellipsis Using Css</title>
-   <link href="http://docs.tinyfactory.co/css/2012/08/11/text-overflow-ellipsis-using-CSS.html"/>
+   <link href="http://docs.tinyfactory.io/css/2012/08/11/text-overflow-ellipsis-using-CSS.html"/>
    <updated>2012-08-11T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/css/2012/08/11/text-overflow-ellipsis-using-CSS</id>
+   <id>http://docs.tinyfactory.io/css/2012/08/11/text-overflow-ellipsis-using-CSS</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -532,15 +532,15 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Targeting Mobile Webkit Browsers With Javascript</title>
-   <link href="http://docs.tinyfactory.co/javascript/2012/08/10/targeting-mobile-webkit-browsers-with-javascript.html"/>
+   <link href="http://docs.tinyfactory.io/javascript/2012/08/10/targeting-mobile-webkit-browsers-with-javascript.html"/>
    <updated>2012-08-10T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/javascript/2012/08/10/targeting-mobile-webkit-browsers-with-javascript</id>
+   <id>http://docs.tinyfactory.io/javascript/2012/08/10/targeting-mobile-webkit-browsers-with-javascript</id>
    
    <author>
    	<name>Michael Sacca</name>
    	<email>michael.sacca@gmail.com</email>
    </author>
-   <content type="html">&lt;p&gt;Here is a way to target mobile browsers with Javascript.  It's not recommended you use this as your sole method for targeting mobile browsers as it first requires your users to load your entire standard site before serving your mobile specific code.  But if used in conjunction with &lt;a href=&quot;http://docs.tinyfactory.co/sass/2012/08/02/sass-inline-media-queries.html&quot;&gt;CSS Media Queries&lt;/a&gt; - this can be quite handy.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Here is a way to target mobile browsers with Javascript.  It's not recommended you use this as your sole method for targeting mobile browsers as it first requires your users to load your entire standard site before serving your mobile specific code.  But if used in conjunction with &lt;a href=&quot;http://docs.tinyfactory.io/sass/2012/08/02/sass-inline-media-queries.html&quot;&gt;CSS Media Queries&lt;/a&gt; - this can be quite handy.&lt;/p&gt;
 
 &lt;p&gt;Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
 </content>
@@ -549,9 +549,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Compass Animated Button Mixin</title>
-   <link href="http://docs.tinyfactory.co/compass/2012/08/07/compass-animated-button-mixin.html"/>
+   <link href="http://docs.tinyfactory.io/compass/2012/08/07/compass-animated-button-mixin.html"/>
    <updated>2012-08-07T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/compass/2012/08/07/compass-animated-button-mixin</id>
+   <id>http://docs.tinyfactory.io/compass/2012/08/07/compass-animated-button-mixin</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -576,9 +576,9 @@ DPI: at least 72 DPI&lt;/p&gt;
  
  <entry>
    <title>Sass Inline Media Queries</title>
-   <link href="http://docs.tinyfactory.co/sass/2012/08/02/sass-inline-media-queries.html"/>
+   <link href="http://docs.tinyfactory.io/sass/2012/08/02/sass-inline-media-queries.html"/>
    <updated>2012-08-02T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/sass/2012/08/02/sass-inline-media-queries</id>
+   <id>http://docs.tinyfactory.io/sass/2012/08/02/sass-inline-media-queries</id>
    
    <author>
    	<name>Aaron Wade</name>
@@ -686,9 +686,9 @@ $mq-desktop: 1382px !default&lt;/p&gt;
  
  <entry>
    <title>Sencha Touch 2 Jsonp Xml Reader Jsonpx</title>
-   <link href="http://docs.tinyfactory.co/sencha touch 2/2012/08/02/Sencha-Touch-2-JSONP-XML-Reader-JSONPX.html"/>
+   <link href="http://docs.tinyfactory.io/sencha touch 2/2012/08/02/Sencha-Touch-2-JSONP-XML-Reader-JSONPX.html"/>
    <updated>2012-08-02T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/sencha touch 2/2012/08/02/Sencha-Touch-2-JSONP-XML-Reader-JSONPX</id>
+   <id>http://docs.tinyfactory.io/sencha touch 2/2012/08/02/Sencha-Touch-2-JSONP-XML-Reader-JSONPX</id>
    
    <author>
    	<name>Alex Rolek</name>
@@ -711,9 +711,9 @@ $mq-desktop: 1382px !default&lt;/p&gt;
  
  <entry>
    <title>Compass Retina Display Mixin</title>
-   <link href="http://docs.tinyfactory.co/compass/2012/08/01/compass-retina-display-mixin.html"/>
+   <link href="http://docs.tinyfactory.io/compass/2012/08/01/compass-retina-display-mixin.html"/>
    <updated>2012-08-01T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/compass/2012/08/01/compass-retina-display-mixin</id>
+   <id>http://docs.tinyfactory.io/compass/2012/08/01/compass-retina-display-mixin</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -745,9 +745,9 @@ $mq-desktop: 1382px !default&lt;/p&gt;
  
  <entry>
    <title>Sass Sticky Footer Mixin</title>
-   <link href="http://docs.tinyfactory.co/sass/2012/07/31/sass-sticky-footer-mixin.html"/>
+   <link href="http://docs.tinyfactory.io/sass/2012/07/31/sass-sticky-footer-mixin.html"/>
    <updated>2012-07-31T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/sass/2012/07/31/sass-sticky-footer-mixin</id>
+   <id>http://docs.tinyfactory.io/sass/2012/07/31/sass-sticky-footer-mixin</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -762,9 +762,9 @@ $mq-desktop: 1382px !default&lt;/p&gt;
  
  <entry>
    <title>Compass Placeholder Text Mixin</title>
-   <link href="http://docs.tinyfactory.co/compass/2012/07/31/Compass-Placeholder-Text-Mixin.html"/>
+   <link href="http://docs.tinyfactory.io/compass/2012/07/31/Compass-Placeholder-Text-Mixin.html"/>
    <updated>2012-07-31T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/compass/2012/07/31/Compass-Placeholder-Text-Mixin</id>
+   <id>http://docs.tinyfactory.io/compass/2012/07/31/Compass-Placeholder-Text-Mixin</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -794,9 +794,9 @@ $mq-desktop: 1382px !default&lt;/p&gt;
  
  <entry>
    <title>Generate An Icon Font</title>
-   <link href="http://docs.tinyfactory.co/design/2012/07/27/generate-an-icon-font.html"/>
+   <link href="http://docs.tinyfactory.io/design/2012/07/27/generate-an-icon-font.html"/>
    <updated>2012-07-27T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/design/2012/07/27/generate-an-icon-font</id>
+   <id>http://docs.tinyfactory.io/design/2012/07/27/generate-an-icon-font</id>
    
    <author>
    	<name>Aaron Wade</name>
@@ -830,11 +830,11 @@ $mq-desktop: 1382px !default&lt;/p&gt;
 
 &lt;p&gt;Open up Illustrator and create a new document sized &lt;strong&gt;1000pt x 1000pt&lt;/strong&gt;. We need to make sure that the icons are centered, and relatively the same size. Drag a horizontal guide so it sits &lt;strong&gt;250 points&lt;/strong&gt; from the top of the canvas. You can set this easily by dragging out a guide, then in your Illustrator toolbar setting the &lt;strong&gt;Y value&lt;/strong&gt; to 250. You should also drag out a vertical rule with the &lt;strong&gt;X value&lt;/strong&gt; of 500 so you have a vertical center showing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://docs.tinyfactory.co/images/assets/toolbar.png&quot; alt=&quot;Illustrator Toolbar&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://docs.tinyfactory.io/images/assets/toolbar.png&quot; alt=&quot;Illustrator Toolbar&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://docs.tinyfactory.co/images/assets/twitter-ss.png&quot; alt=&quot;Twitter icon mapped to T key&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://docs.tinyfactory.io/images/assets/twitter-ss.png&quot; alt=&quot;Twitter icon mapped to T key&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://docs.tinyfactory.co/images/downloads/icon.zip&quot; class=&quot;button&quot;&gt;Download Icon Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://docs.tinyfactory.io/images/downloads/icon.zip&quot; class=&quot;button&quot;&gt;Download Icon Template&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Make sure your icon is a compound path. If your canvas has more than one shape, it will cause issues with the font generation. You can make it a compound path by selecting all the shapes in the icon, and pressing &lt;strong&gt;CMD + 8&lt;/strong&gt;.&lt;/p&gt;
 
@@ -868,9 +868,9 @@ Or if you've setup everything the way I have &lt;code&gt;hieroglyph -n Icons -g 
  
  <entry>
    <title>Setting Up Node Forever</title>
-   <link href="http://docs.tinyfactory.co/node.js/2012/07/26/setting-up-node-forever.html"/>
+   <link href="http://docs.tinyfactory.io/node.js/2012/07/26/setting-up-node-forever.html"/>
    <updated>2012-07-26T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/node.js/2012/07/26/setting-up-node-forever</id>
+   <id>http://docs.tinyfactory.io/node.js/2012/07/26/setting-up-node-forever</id>
    
    <author>
    	<name>Justen Palmer</name>
@@ -894,9 +894,9 @@ Or if you've setup everything the way I have &lt;code&gt;hieroglyph -n Icons -g 
  
  <entry>
    <title>Mysql Setup On Aws Centos</title>
-   <link href="http://docs.tinyfactory.co/centos/2012/07/26/MySql-Setup-on-AWS-CentOS.html"/>
+   <link href="http://docs.tinyfactory.io/centos/2012/07/26/MySql-Setup-on-AWS-CentOS.html"/>
    <updated>2012-07-26T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/centos/2012/07/26/MySql-Setup-on-AWS-CentOS</id>
+   <id>http://docs.tinyfactory.io/centos/2012/07/26/MySql-Setup-on-AWS-CentOS</id>
    
    <author>
    	<name>Alex Rolek</name>
@@ -922,9 +922,9 @@ Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;&lt;/li&gt;
  
  <entry>
    <title>Setup Nodejs Environment On Ec2</title>
-   <link href="http://docs.tinyfactory.co/node.js/2012/07/18/setup-nodejs-environment-on-ec2.html"/>
+   <link href="http://docs.tinyfactory.io/node.js/2012/07/18/setup-nodejs-environment-on-ec2.html"/>
    <updated>2012-07-18T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/node.js/2012/07/18/setup-nodejs-environment-on-ec2</id>
+   <id>http://docs.tinyfactory.io/node.js/2012/07/18/setup-nodejs-environment-on-ec2</id>
    
    <author>
    	<name>Justen Palmer</name>
@@ -991,9 +991,9 @@ Liquid error: No such file or directory - posix_spawnp&lt;br /&gt;
  
  <entry>
    <title>Git Branching</title>
-   <link href="http://docs.tinyfactory.co/git/2012/07/10/git-branching.html"/>
+   <link href="http://docs.tinyfactory.io/git/2012/07/10/git-branching.html"/>
    <updated>2012-07-10T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/git/2012/07/10/git-branching</id>
+   <id>http://docs.tinyfactory.io/git/2012/07/10/git-branching</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -1050,9 +1050,9 @@ Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
  
  <entry>
    <title>Changing the head on a Git Repo</title>
-   <link href="http://docs.tinyfactory.co/git/2012/07/09/changing-the-head-pointer-on-a-git-repoistory.html"/>
+   <link href="http://docs.tinyfactory.io/git/2012/07/09/changing-the-head-pointer-on-a-git-repoistory.html"/>
    <updated>2012-07-09T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/git/2012/07/09/changing-the-head-pointer-on-a-git-repoistory</id>
+   <id>http://docs.tinyfactory.io/git/2012/07/09/changing-the-head-pointer-on-a-git-repoistory</id>
    
    <author>
    	<name>Michael Sacca</name>
@@ -1083,9 +1083,9 @@ Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
  
  <entry>
    <title>Setup Vsftp On Aws Centos</title>
-   <link href="http://docs.tinyfactory.co/centos/2012/07/08/setup-vsftp-on-aws-centos.html"/>
+   <link href="http://docs.tinyfactory.io/centos/2012/07/08/setup-vsftp-on-aws-centos.html"/>
    <updated>2012-07-08T00:00:00-07:00</updated>
-   <id>http://docs.tinyfactory.co/centos/2012/07/08/setup-vsftp-on-aws-centos</id>
+   <id>http://docs.tinyfactory.io/centos/2012/07/08/setup-vsftp-on-aws-centos</id>
    
    <author>
    	<name>Alex Rolek</name>

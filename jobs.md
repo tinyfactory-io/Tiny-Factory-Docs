@@ -18,7 +18,7 @@ Must be proficient in
 
 If you are interested in applying, shoot us an email with a sinle link to your portfolio (Dribbble, Behance, etc) and tell us about about the most interesting project you've worked on and let us know your contribution to it.  
 
-Send your portfolio and answer to [hello@tinyfactory.co](mailto:hello@tinyfactory.co), and we'll be in touch.
+Send your portfolio and answer to [hello@tinyfactory.io](mailto:hello@tinyfactory.io), and we'll be in touch.
 
 ## Node.js System Engineer - San Diego, CA
 
@@ -43,6 +43,6 @@ function foo(a, b){
 }
 {% endhighlight %}
 
-Send your answer to [hello@tinyfactory.co](mailto:hello@tinyfactory.co), and we'll be in touch.
+Send your answer to [hello@tinyfactory.io](mailto:hello@tinyfactory.io), and we'll be in touch.
 
 Tiny Factory

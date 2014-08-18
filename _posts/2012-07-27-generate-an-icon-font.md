@@ -31,11 +31,11 @@ Then just delete the dummy SVG file, in my case, on my Desktop.
 #### Getting your icons ready
 Open up Illustrator and create a new document sized **1000pt x 1000pt**. We need to make sure that the icons are centered, and relatively the same size. Drag a horizontal guide so it sits **250 points** from the top of the canvas. You can set this easily by dragging out a guide, then in your Illustrator toolbar setting the **Y value** to 250. You should also drag out a vertical rule with the **X value** of 500 so you have a vertical center showing.
 
-![Illustrator Toolbar](http://docs.tinyfactory.co/images/assets/toolbar.png)
+![Illustrator Toolbar](http://docs.tinyfactory.io/images/assets/toolbar.png)
 
-![Twitter icon mapped to T key](http://docs.tinyfactory.co/images/assets/twitter-ss.png)
+![Twitter icon mapped to T key](http://docs.tinyfactory.io/images/assets/twitter-ss.png)
 
-<a href="http://docs.tinyfactory.co/images/downloads/icon.zip" class="button">Download Icon Template</a>
+<a href="http://docs.tinyfactory.io/images/downloads/icon.zip" class="button">Download Icon Template</a>
 
 **Important:** Make sure your icon is a compound path. If your canvas has more than one shape, it will cause issues with the font generation. You can make it a compound path by selecting all the shapes in the icon, and pressing **CMD + 8**.
 
